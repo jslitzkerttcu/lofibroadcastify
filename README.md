@@ -1,2 +1,16 @@
-# lofibroadcastify
-lofiatc.com but with mpv and using broadcastify feed
+# lofibroadcastify.sh
+
+Small bash file that implements https://www.lofiatc.com with two running [mpv](https://mpv.io/) instances.
+
+Support for [My broadcastify feed](https://www.broadcastify.com/listen/feed/39207) has been added.
+
+```
+$ ./lofibroadcastify.sh 
+
+# Getting started
+
+```sh
+git clone https://github.com/phazus/lofiatc.sh.git
+cd lofiatc.sh
+./lofiatc.sh
+```
