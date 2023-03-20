@@ -10,7 +10,7 @@ $ ./lofibroadcastify.sh
 # Getting started
 
 ```sh
-git clone https://github.com/phazus/lofiatc.sh.git
-cd lofiatc.sh
-./lofiatc.sh
+git clone https://github.com/jslitzkerttcu/lofibroadcastify.git
+cd lofibroadcastify
+./lofibroadcastify.sh
 ```
